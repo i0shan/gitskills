@@ -6,3 +6,5 @@ Creating a new branch is quick.
 here is a conflict fixed 
 
 i dont know what to do.
+
+here is issue 2
